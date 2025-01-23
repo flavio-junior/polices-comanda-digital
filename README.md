@@ -86,6 +86,12 @@ Esta política reflete o compromisso do **Comanda Digital** com a transparência
 
 ---
 
+## 8. Política de Exclusão
+
+Ao excluir suas conta, todos os seus dados pessoais, como: Email, cpf, login, metódos de pagamentos ou qualquer outro dado sensível será excluido de nossa base de dados.
+
+---
+
 **Observações:**
 
 *   **LGPD:** Lei Geral de Proteção de Dados.
